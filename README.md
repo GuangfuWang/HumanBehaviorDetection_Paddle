@@ -16,6 +16,11 @@
 
 + this project uses qt5, so you must install qt if you want to use this, on ubuntu-like os, you can simply install dependencies using scripts in script folder.
 
+## Screenshots
+
+![启动截图](assets/test_videos/1.png)
+![处理中](assets/test_videos/2.png)
+![检测截图](assets/test_videos/3.png)
 
 ## Contributors
 
